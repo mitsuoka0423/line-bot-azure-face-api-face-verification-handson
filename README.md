@@ -6,7 +6,7 @@
 
 本リポジトリはハンズオンイベント「[画像分析AIを使ったLINE Botを1時間で作ってみよう（顔認証編）～プロトアウト体験会～](https://protoout.connpass.com/event/213633/)」のソースコードです。
 
-TODO ハンズオン資料は[こちら](https://zenn.dev/tmitsuoka0423/books/b21e50db77ff1eab89a3)
+ハンズオン資料は[こちら](https://zenn.dev/tmitsuoka0423/books/939110f3e1f533d35095)
 
 ## 開発環境
 
