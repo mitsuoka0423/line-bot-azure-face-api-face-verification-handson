@@ -2,7 +2,7 @@
 
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/tmitsuoka0423/line-bot-azure-face-api-face-verification-handson)
 
-https://youtu.be/ifFi-qGr6sU
+<a href="https://gyazo.com/d59567d7e01a7f1ec2b6e134a474bbfe"><img src="https://i.gyazo.com/d59567d7e01a7f1ec2b6e134a474bbfe.gif" alt="Image from Gyazo" width="480"/></a>
 
 本リポジトリはハンズオンイベント「[画像分析AIを使ったLINE Botを1時間で作ってみよう（顔認証編）～プロトアウト体験会～](https://protoout.connpass.com/event/213633/)」のソースコードです。
 
